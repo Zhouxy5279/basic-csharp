@@ -1,0 +1,14 @@
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\bin\Debug\net6.0\HelloCSharp.exe
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\bin\Debug\net6.0\HelloCSharp.deps.json
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\bin\Debug\net6.0\HelloCSharp.runtimeconfig.json
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\bin\Debug\net6.0\HelloCSharp.dll
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\bin\Debug\net6.0\HelloCSharp.pdb
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.AssemblyInfoInputs.cache
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.AssemblyInfo.cs
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.csproj.CoreCompileInputs.cache
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.dll
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\refint\HelloCSharp.dll
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.pdb
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\HelloCSharp.genruntimeconfig.cache
+W:\__GitHub\basic-csharp\HelloCSharpExecute\HelloCSharp\obj\Debug\net6.0\ref\HelloCSharp.dll
